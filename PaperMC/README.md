@@ -58,4 +58,4 @@ To attach to console, run:
 To Detach from console: Press `ctrl+p` then `ctrl+q` and you will then be returned to the command line.
 
 # Notes
-This guide is based on Ubuntu Linux and some of the steps will not work on some operating systems.
+This guide is based on Ubuntu Linux and some of the steps will not work on various operating systems.
