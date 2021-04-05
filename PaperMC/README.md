@@ -1,7 +1,7 @@
 # Quick Setup
 Create a folder to contain all the files:
 
-    mkdir mc_server
+    mkdir mc_server && cd mc_server
 Save any files you want to be added to the container in this folder (e.g. plugins, server.properties, etc...)
 **If you save plugins in this folder they must be in a subdirectory (folder) called plugins. To create this folder run:** `mkdir plugins`
 **and save the plugins in that folder**
